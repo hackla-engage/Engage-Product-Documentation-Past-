@@ -6,6 +6,6 @@ The best way to get oriented is to head over to the [Engage Wiki](https://github
 
 You can also check out [the current Engage prototype](https://engage-santa-monica.herokuapp.com/#/).
 
-Finally, if you're ready to jump into the Slack conversation, join [the Hack for LA Workspace](https://hackforla-slack.herokuapp.com/) and find us in the #engage and #engage-dev channels.
+Finally, if you're ready to jump into the Slack conversation, join [the Hack for LA Workspace](https://hackforla-slack.herokuapp.com/) and find us in the **#engage** and **#engage-dev** channels.
 
 Thanks!
